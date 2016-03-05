@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tusculandisputa01cicegoog_0093.png"; bbox 0 0 2475 4092; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 1645 790 1702">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 340 1645 790 1702">
+     <span class='ocr_line' id='line_1_1' title="bbox 340 1645 790 1702; baseline -0.02 1"><span class='ocrx_word' id='word_1_1' title='bbox 340 1655 382 1702; x_wconf 80' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 400 1649 545 1702; x_wconf 84' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 563 1645 790 1697; x_wconf 83' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 265 1833 872 1916">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 265 1833 872 1916">
+     <span class='ocr_line' id='line_1_2' title="bbox 265 1833 872 1916; baseline -0.016 0"><span class='ocrx_word' id='word_1_4' title='bbox 265 1842 351 1916; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 408 1839 492 1912; x_wconf 85' lang='lat' dir='ltr'><strong>RE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 549 1833 872 1907; x_wconf 87' lang='lat' dir='ltr'><strong>PUBLICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 403 2055 725 2125">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 403 2055 725 2125">
+     <span class='ocr_line' id='line_1_3' title="bbox 403 2055 725 2125; baseline -0.016 0"><span class='ocrx_word' id='word_1_7' title='bbox 403 2057 595 2125; x_wconf 82' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_8' title='bbox 638 2055 725 2121; x_wconf 89' lang='lat' dir='ltr'><strong>VI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 160 2347 1105 2451">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 160 2347 1105 2451">
+     <span class='ocr_line' id='line_1_4' title="bbox 160 2347 1105 2451; baseline -0.004 1"><span class='ocrx_word' id='word_1_9' title='bbox 160 2349 508 2451; x_wconf 80' lang='lat' dir='ltr'>SOMNIUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 561 2347 980 2442; x_wconf 82' lang='lat' dir='ltr'><strong>SCIPIONIS.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1104 2445 1105 2448; x_wconf 5' lang='grc' dir='ltr'>γ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1242 4092">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1242 4092">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1242 4092; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1242 4092; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
